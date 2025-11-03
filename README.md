@@ -8,3 +8,4 @@ This project is a continuation of the **ALX Travel App**, designed to facilitate
 2. Define database models inside 'listings/models.py'.
 3. Create serializers in 'listings/serializers.py'.
 4. Implement management commands for data seedling in 'listings/management/commands/seeds.py'.
+5. Run and test the commands.
